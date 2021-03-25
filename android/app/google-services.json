@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228657547097",
+    "project_id": "chat-e-ce66e",
+    "storage_bucket": "chat-e-ce66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228657547097:android:4b1800c4626392d590ee48",
+        "android_client_info": {
+          "package_name": "com.juna.chat_e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228657547097-rvn1mel0j0hmr1752op3bj77btfj15sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC12_C5k73Jx_gMjTPNIegmn7CPOz4eybs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228657547097-rvn1mel0j0hmr1752op3bj77btfj15sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
